@@ -2,7 +2,7 @@
 
 ## You can download the Make my Appoinntment App from the following link:
 
-[Download Make my Appointments App]([https://drive.google.com/file/d/1fW0RhhpnFyg627jP-0ne5yeV-xrhz5VQ/view?usp=sharing](https://drive.google.com/file/d/14Y4H0bCxapJuiqs-lyVr1YliNPaHHrrr/view?usp=sharing))
+[Download Make my Appointments App](https://drive.google.com/file/d/14Y4H0bCxapJuiqs-lyVr1YliNPaHHrrr/view?usp=sharing)
 
 ## App Screenshots
 <img src="https://github.com/prasadrawas/make_my_appointment/assets/78028165/2051e424-a0b7-4dd6-8197-8e46b016e94f" height="600">
